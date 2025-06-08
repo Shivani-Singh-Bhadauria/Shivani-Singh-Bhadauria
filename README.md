@@ -3,13 +3,13 @@
 ---
 
 ### 💫 About Me
-- 🎓 B.Tech (CSE) from PSIT College of Engineering (2020–2024)
-- 💻 Associate Software Engineer at Accenture  
+- 💻 Associate Software Engineer at Accenture
+- 🎓 B.Tech (Computer Science) from PSIT College of Engineering (2020–2024)
 - 🛠️ Skilled in Python, Java, SQL, and REST APIs  
 - 🌩️ Cloud enthusiast (GCP, AWS)  
 - 🔐 Cybersecurity Mentee @ Microsoft India  
-- 💡 Exploring scalable systems, DevOps, and secure infrastructure  
-- 🧠 2024 Goals: Deepen DevOps skills and advance DSA  
+- 💡 Exploring scalable systems, Development, and secure infrastructure  
+- 🧠 2025 Goals: Deepen Java & Springboot skills and advance DSA  
 
 ---
 
@@ -34,7 +34,7 @@
 ---
 
 ### 📜 Certifications
-- [Cisco Cybersecurity](https://www.credly.com/earner/earned/badge/91c55db8-039b-460d-acc9-f9049be3f5ff)
+- [Cisco Cybersecurity]([https://www.credly.com/earner/earned/badge/91c55db8-039b-460d-acc9-f9049be3f5ff](https://www.credly.com/badges/91c55db8-039b-460d-acc9-f9049be3f5ff/public_url))
 - [Google Cloud Digital Leader](https://www.credly.com/badges/75e97e35-b754-4947-9883-27234c82dcb7/linked_in?t=svs6lg)
 - [AWS Cloud Practitioner Essentials](https://drive.google.com/file/d/1Y05NShfRax0xuUPATvRNJOEEl4XcQgze/view?pli=1)
 
@@ -43,8 +43,3 @@
 ### 📊 GitHub Stats
 ![Shivani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivani-Singh-Bhadauria&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivani-Singh-Bhadauria&layout=compact&theme=radical)
-
----
-
-### 🔥 Total GitHub Views
-![Visitor Count](https://komarev.com/ghpvc/?username=Shivani-Singh-Bhadauria&color=blue)
