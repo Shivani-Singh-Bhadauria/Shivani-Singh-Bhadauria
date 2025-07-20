@@ -36,6 +36,7 @@
 
 ### 📜 Certifications
 - [Cisco Cybersecurity](https://www.credly.com/badges/91c55db8-039b-460d-acc9-f9049be3f5ff/public_url)
+- [Google Cloud Certified Generative AI Leader](https://www.credly.com/badges/432f5f9c-7e1f-42b8-b2de-a0965835ac78/public_url)
 - [Google Cloud Digital Leader](https://www.credly.com/badges/75e97e35-b754-4947-9883-27234c82dcb7/linked_in?t=svs6lg)
 - [AWS Cloud Practitioner Essentials](https://drive.google.com/file/d/1Y05NShfRax0xuUPATvRNJOEEl4XcQgze/view?pli=1)
 
