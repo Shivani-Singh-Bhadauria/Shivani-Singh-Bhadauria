@@ -5,6 +5,7 @@
 ### 💫 About Me
 - 💻 Associate Software Engineer at Accenture
 - 🎓 B.Tech (Computer Science) from PSIT College of Engineering (2020–2024)
+- 🤖 GenAI Leader Certified | Driving innovation with LLMs & applied AI
 - 🛠️ Skilled in Python, Java, SQL, and REST APIs  
 - 🌩️ Cloud enthusiast (GCP, AWS)  
 - 🔐 Cybersecurity Mentee @ Microsoft India  
