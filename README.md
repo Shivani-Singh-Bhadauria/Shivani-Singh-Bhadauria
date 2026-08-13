@@ -4,10 +4,6 @@
   <b>Associate Software Engineer | GenAI & LLM Applications | Python | Cloud</b>
 </p>
 
-<p align="center">
-  Building intelligent applications with LLMs, RAG, Agentic AI, and scalable backend technologies.
-</p>
-
 ---
 
 ## 💫 About Me
@@ -32,7 +28,6 @@
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6B46C1?style=flat)
 ![RAG](https://img.shields.io/badge/RAG-412991?style=flat)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat\&logo=openai\&logoColor=white)
-![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=flat)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat)
 ![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=flat)
@@ -53,17 +48,16 @@
 ## 💻 Software Development
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat\&logo=java\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat\&logo=springboot\&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat\&logo=fastapi\&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat\&logo=flask)
 ![REST API](https://img.shields.io/badge/-REST_APIs-FF6F00?style=flat)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=white)
+![SDLC](https://img.shields.io/badge/-Software_Development_Life_Cycle-4B5563?style=flat)
 
-**Languages & Backend:**
-
-`Python` · `Java` · `SQL` · `FastAPI` · `Flask` · `Spring Boot` · `REST APIs`
+* Python
+* SQL
+* FastAPI
+* REST APIs
+* Software Development Life Cycle
 
 ---
 
@@ -71,14 +65,11 @@
 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat\&logo=googlecloud\&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat\&logo=amazonaws\&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-EF3B2D?style=flat\&logo=databricks\&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat\&logo=snowflake\&logoColor=white)
+![Vector Databases](https://img.shields.io/badge/-Vector_Databases-6B46C1?style=flat)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
 
 * Google Cloud Platform
 * AWS
-* Databricks
-* Snowflake
 * Vector Databases
 * SQL & NoSQL
 
@@ -92,56 +83,32 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat\&logo=streamlit\&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat\&logo=githubcopilot\&logoColor=white)
 
-`Git` · `GitHub` · `Docker` · `Streamlit` · `GitHub Copilot` · `MCP` · `APIs`
-
----
-
-## 🚀 Featured Work
-
-### 🤖 Enterprise GenAI Solutions
-
-Building business-focused GenAI applications at Accenture, including solutions involving:
-
-* LLM-powered automation
-* RAG-based knowledge systems
-* Agentic workflows
-* Document processing
-* AI-assisted decision making
-* Enterprise application integration
-
-### 🛒 Cart Genie — Multi-Agent AI Shopping Assistant
-
-An AI-powered shopping assistant designed to help users identify the best product, price, payment option, and purchase protection.
-
-**Key components:**
-
-* 🧾 Product Catalog Agent
-* 💳 Payment Optimization Agent
-* 🏷️ Offer Extraction Agent
-* 🔐 Authenticity & Delivery Risk Agent
-* 🧠 RAG-based Protection Advisor
-* 📊 Product Ranking Engine
-
-**Tech:** Python · Flask · OpenAI · LangChain · ChromaDB · RAG · Embeddings · Multi-Agent AI
+* Git
+* Github
+* Docker
+* Streamlit
+* Github Copilot
+* Claude
+* MCP
+* APIs
 
 ---
 
 ## 🏆 Achievements
 
 * 🥇 **Top 18 Teams** — Accenture Agentic AI Hackathon
-* 🤖 **Google Cloud Certified Generative AI Leader**
 * 🔐 **Microsoft Cybersecurity Apprentice**
-* ☁️ **Google Cloud Digital Leader**
-* 🎓 **B.Tech in Computer Science — PSIT College of Engineering**
 
 ---
 
 ## 📜 Certifications
 
-* [Google Cloud Certified — Generative AI Leader](https://www.credly.com/badges/432f5f9c-7e1f-42b8-b2de-a0965835ac78/public_url)
-* [Google Cloud Digital Leader](https://www.credly.com/badges/75e97e35-b754-4947-9883-27234c82dcb7/linked_in?t=svs6lg)
-* [Cisco Cybersecurity](https://www.credly.com/badges/91c55db8-039b-460d-acc9-f9049be3f5ff/public_url)
-* [AWS Cloud Practitioner Essentials](https://drive.google.com/file/d/1Y05NShfRax0xuUPATvRNJOEEl4XcQgze/view?pli=1)
+- [Google Cloud Certified — Generative AI Leader](https://www.credly.com/badges/432f5f9c-7e1f-42b8-b2de-a0965835ac78/public_url)
+- [Google Cloud Digital Leader](https://www.credly.com/badges/75e97e35-b754-4947-9883-27234c82dcb7/linked_in?t=svs6lg)
+- [Databricks Certified Generative AI Engineer Associate](YOUR_DATABRICKS_CERTIFICATION_LINK)
+- [Microsoft GitHub Copilot](YOUR_GITHUB_COPILOT_CERTIFICATION_LINK)
+- [Cisco Cybersecurity](https://www.credly.com/badges/91c55db8-039b-460d-acc9-f9049be3f5ff/public_url)
+- [AWS Cloud Practitioner Essentials](https://drive.google.com/file/d/1Y05NShfRax0xuUPATvRNJOEEl4XcQgze/view?pli=1)
 
 ---
 
