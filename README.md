@@ -105,10 +105,9 @@
 
 - [Google Cloud Certified — Generative AI Leader](https://www.credly.com/badges/432f5f9c-7e1f-42b8-b2de-a0965835ac78/public_url)
 - [Google Cloud Digital Leader](https://www.credly.com/badges/75e97e35-b754-4947-9883-27234c82dcb7/linked_in?t=svs6lg)
-- [Databricks Certified Generative AI Engineer Associate](YOUR_DATABRICKS_CERTIFICATION_LINK)
-- [Microsoft GitHub Copilot](YOUR_GITHUB_COPILOT_CERTIFICATION_LINK)
+- [Databricks Certified Generative AI Engineer Associate](https://credentials.databricks.com/04b5d22b-a8fe-4cb0-9c57-74b4534ef144#acc.2E1eaJ8y)
+- [Microsoft GitHub Copilot](https://learn.microsoft.com/en-us/users/shivanisingh-1619/credentials/ce6d740a9ed5ea3c)
 - [Cisco Cybersecurity](https://www.credly.com/badges/91c55db8-039b-460d-acc9-f9049be3f5ff/public_url)
-- [AWS Cloud Practitioner Essentials](https://drive.google.com/file/d/1Y05NShfRax0xuUPATvRNJOEEl4XcQgze/view?pli=1)
 
 ---
 
@@ -121,15 +120,6 @@
   <a href="https://github.com/Shivani-Singh-Bhadauria">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivani-Singh-Bhadauria&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivani-Singh-Bhadauria&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
